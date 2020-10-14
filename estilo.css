@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+    background-color: cornflowerblue;
+
+}
+
+
+
+.perfil{
+        width: 300px;
+        height: 300px;
+        border-radius: 150px;
+        padding: 7px;
+}
+
